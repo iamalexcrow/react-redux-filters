@@ -1,0 +1,502 @@
+{
+    "hairstyles": [
+    {
+        "name": "Модельная",
+        "price": 550,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://mr-kg.ru/wp-content/uploads/2020/01/2-2.jpg"
+    },
+    {
+        "name": "Модная",
+        "price": 650,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://365moda.ru/wp-content/uploads/2016/03/modnye-muzhskie-strizhki-2018-goda-tendentsii-foto-2.jpg"
+    },
+    {
+        "name": "С укладкой",
+        "price": 1050,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_cjtgHEMpFRFS8dVh7efMf8rsbHnKWRFhw&usqp=CAU"
+    },
+    {
+        "name": "Короткая",
+        "price": 400,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://www.sergeenko.by/upload/medialibrary/c6f/c6fbf5c7c754f9d669cd7d3012df6374.jpg"
+    },
+    {
+        "name": "Классическая",
+        "price": 800,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://v-kosmose.com/wp-content/uploads/2018/08/88980b45e3beb7024c12353ed2478b6a.jpg"
+    },
+    {
+        "name": "Стильная",
+        "price": 1200,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://lady-rf.ru/wp-content/uploads/2017/11/modnye-muzhskie-strizhki-12-1.jpg"
+    },
+    {
+        "name": "Налысо",
+        "price": 250,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "Нет волос - нет проблем. Расчестка тоже не нужна",
+        "img": "https://barber.su/imgs/blog/022/22/blg5bf4408f475c03_63726902.jpg"
+    },
+    {
+        "name": "Призывник",
+        "price": 50,
+        "gender": "Мужская",
+        "type": "Прикольные",
+        "description": "Оставь свои волосы в прошлом. Военный билет в подарок!",
+        "img": "http://topwar.ru/uploads/posts/2013-02/thumbs/1361362519_D09FD180D0B8D0B7D18BD0B2_D181D182D180D0B8D0B6D0BAD0B0.jpg"
+    },
+    {
+        "name": "Ёжик",
+        "price": 200,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://i.pinimg.com/originals/9a/97/8f/9a978fae5836e52029149d27ab9aad06.jpg"
+    },
+    {
+        "name": "Каскад",
+        "price": 1000,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://pix-feed.com/wp-content/uploads/2018/09/16-min-18.jpg"
+    },
+    {
+        "name": "Каре",
+        "price": 1100,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://avatars.mds.yandex.net/get-zen_doc/242954/pub_5d445ceb78125e00ad04f925_5d47dee135c8d800ad0d64f2/scale_1200"
+    },
+    {
+        "name": "Пикси",
+        "price": 1300,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://volosomanjaki.com/wp-content/uploads/2020/03/4b1a8955cbd04300da9210924d0ff057.jpg"
+    },
+    {
+        "name": "Сессон",
+        "price": 800,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://lh3.googleusercontent.com/proxy/TD8TJAYJNU6elEcY2IuX1xn5kvh_QMHQHy0lDs0kubjCWe_8d01FXAWI8igNNg1Bz4nGhtglYxNR_K7LvLJybPiF62XV-fUts-oPixTEAP97qqdk0N9xhvZeiNA6wJp3umyqm1FOwUOOz_O7tH2VSnM8aX-4qQ"
+    },
+    {
+        "name": "Сессон",
+        "price": 800,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://v-kosmose.com/wp-content/uploads/2018/08/Strizhka-Pazh-na-korotkie-volosyi-foto-speredi-i-szadi.jpg"
+    },
+    {
+        "name": "Гаврощ",
+        "price": 1500,
+        "gender": "Женская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://mtdata.ru/u2/photoC079/20393775704-0/original.jpg"
+    },
+    {
+        "name": "Английская",
+        "price": 750,
+        "gender": "Женская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://feya-salon.ru/wp-content/uploads/2017/10/Angliyskiy-stil-strizhki-1-1-600x440.jpg"
+    },
+    {
+        "name": "Полубокс",
+        "price": 750,
+        "gender": "Женская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://i.pinimg.com/736x/98/67/f4/9867f47b0cb72daca7993a683c3a4b85.jpg"
+    },
+    {
+        "name": "Возрастная",
+        "price": 750,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://hairme.ru/assets/uploads/ids/42/DM_Scan0241[1].jpg"
+    },
+    {
+        "name": "Панк",
+        "price": 1000,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://www.2hairstyle.com/wp-content/uploads/2020/07/punk2Bhairstyles2B1.jpg"
+    },
+    {
+        "name": "Дудь",
+        "price": 1800,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://detector.media/doc/images/news/archive/2016/133001/i75_ArticleImage_133001.jpg?t=1513796061"
+    },
+    {
+        "name": "Скриллекс",
+        "price": 2000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://weraveyou.com/wp-content/uploads/2018/06/Skrillex-Live.jpg"
+    },
+    {
+        "name": "Гоша Куценко",
+        "price": 1000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://bnmusic.ru/wp-content/uploads/2020/01/Gosha-Kutsenko.jpg"
+    },
+    {
+        "name": "Трамп",
+        "price": 3000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm42pQjQJW4fRcednb1m7pinFrMuygwAySDk1VRn81iPAih19_rONTc8iFCDnCi6Fc7Yw&usqp=CAU"
+    },
+    {
+        "name": "Роналдо",
+        "price": 4000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1054x735:1056x733)/origin-imgresizer.eurosport.com/2021/03/30/3020400-61963728-2560-1440.jpg"
+    },
+    {
+        "name": "Мэрлин Монро",
+        "price": 2000,
+        "gender": "Женская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://sites.google.com/site/saingabouteverything/_/rsrc/1325238850830/stil-merlin-monro/monroe-02.jpg"
+    },
+    {
+        "name": "Марч Симпсон",
+        "price": 2000,
+        "gender": "Женская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://ic.pics.livejournal.com/fastcult/50338851/1433623/1433623_original.jpg"
+    },
+    {
+        "name": "Косички",
+        "price": 500,
+        "gender": "Женская",
+        "type": "Детские",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "http://womenshealth.su/wp-content/uploads/2018/08/pricheski-v-detskij-sad-1.jpg"
+    },
+    {
+        "name": "Коса",
+        "price": 600,
+        "gender": "Женская",
+        "type": "Детские",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm34pNYy916TYrPc7YUkwHh3gJ7azo1_dx0Q&usqp=CAU"
+    },
+    {
+        "name": "Горшок",
+        "price": 400,
+        "gender": "Мужская",
+        "type": "Детские",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://letidor.ru/imgs/2018/04/24/07/2149458/44447185bbcf4632d7001fcbd3c84b7c83aac6b8.jpg"
+    },
+    {
+        "name": "Стрижка вспышка",
+        "price": 10,
+        "gender": "Мужская",
+        "type": "Прикольные",
+        "description": "Быстро и просто! Стрижка с огоньком",
+        "img": "http://sun9-47.userapi.com/s/v1/if1/2jOXmH22OLpSEWyZBy6V3QlDf5NoDIBjHpygfSghCRaGWukMq9hxE-y7bcJRDmDNQgPR3uDG.jpg?size=200x0&quality=96&crop=100,21,438,438&ava=1"
+    },
+    {
+        "name": "Чёткая",
+        "price": 350,
+        "gender": "Мужская",
+        "type": "Прикольные",
+        "description": "Ничего лишнего, только ты и твоя крутость",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoEmWFNo1Yw0xubojTp9QMvnP70d6v8RBg7CynSLOznp-r7r3uAC0U13PAat5BfbkZ6E&usqp=CAU"
+    },
+    {
+        "name": "Модельная",
+        "price": 550,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://mr-kg.ru/wp-content/uploads/2020/01/2-2.jpg"
+    },
+    {
+        "name": "Модная",
+        "price": 650,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://365moda.ru/wp-content/uploads/2016/03/modnye-muzhskie-strizhki-2018-goda-tendentsii-foto-2.jpg"
+    },
+    {
+        "name": "С укладкой",
+        "price": 1050,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG_cjtgHEMpFRFS8dVh7efMf8rsbHnKWRFhw&usqp=CAU"
+    },
+    {
+        "name": "Короткая",
+        "price": 400,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://www.sergeenko.by/upload/medialibrary/c6f/c6fbf5c7c754f9d669cd7d3012df6374.jpg"
+    },
+    {
+        "name": "Классическая",
+        "price": 800,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://v-kosmose.com/wp-content/uploads/2018/08/88980b45e3beb7024c12353ed2478b6a.jpg"
+    },
+    {
+        "name": "Стильная",
+        "price": 1200,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://lady-rf.ru/wp-content/uploads/2017/11/modnye-muzhskie-strizhki-12-1.jpg"
+    },
+    {
+        "name": "Налысо",
+        "price": 250,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "Нет волос - нет проблем. Расчестка тоже не нужна",
+        "img": "https://barber.su/imgs/blog/022/22/blg5bf4408f475c03_63726902.jpg"
+    },
+    {
+        "name": "Призывник",
+        "price": 50,
+        "gender": "Мужская",
+        "type": "Прикольные",
+        "description": "Оставь свои волосы в прошлом. Военный билет в подарок!",
+        "img": "http://topwar.ru/uploads/posts/2013-02/thumbs/1361362519_D09FD180D0B8D0B7D18BD0B2_D181D182D180D0B8D0B6D0BAD0B0.jpg"
+    },
+    {
+        "name": "Ёжик",
+        "price": 200,
+        "gender": "Мужская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://i.pinimg.com/originals/9a/97/8f/9a978fae5836e52029149d27ab9aad06.jpg"
+    },
+    {
+        "name": "Каскад",
+        "price": 1000,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://pix-feed.com/wp-content/uploads/2018/09/16-min-18.jpg"
+    },
+    {
+        "name": "Каре",
+        "price": 1100,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://avatars.mds.yandex.net/get-zen_doc/242954/pub_5d445ceb78125e00ad04f925_5d47dee135c8d800ad0d64f2/scale_1200"
+    },
+    {
+        "name": "Пикси",
+        "price": 1300,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://volosomanjaki.com/wp-content/uploads/2020/03/4b1a8955cbd04300da9210924d0ff057.jpg"
+    },
+    {
+        "name": "Сессон",
+        "price": 800,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://lh3.googleusercontent.com/proxy/TD8TJAYJNU6elEcY2IuX1xn5kvh_QMHQHy0lDs0kubjCWe_8d01FXAWI8igNNg1Bz4nGhtglYxNR_K7LvLJybPiF62XV-fUts-oPixTEAP97qqdk0N9xhvZeiNA6wJp3umyqm1FOwUOOz_O7tH2VSnM8aX-4qQ"
+    },
+    {
+        "name": "Сессон",
+        "price": 800,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://v-kosmose.com/wp-content/uploads/2018/08/Strizhka-Pazh-na-korotkie-volosyi-foto-speredi-i-szadi.jpg"
+    },
+    {
+        "name": "Гаврощ",
+        "price": 1500,
+        "gender": "Женская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://mtdata.ru/u2/photoC079/20393775704-0/original.jpg"
+    },
+    {
+        "name": "Английская",
+        "price": 750,
+        "gender": "Женская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://feya-salon.ru/wp-content/uploads/2017/10/Angliyskiy-stil-strizhki-1-1-600x440.jpg"
+    },
+    {
+        "name": "Полубокс",
+        "price": 750,
+        "gender": "Женская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://i.pinimg.com/736x/98/67/f4/9867f47b0cb72daca7993a683c3a4b85.jpg"
+    },
+    {
+        "name": "Возрастная",
+        "price": 750,
+        "gender": "Женская",
+        "type": "Классические",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://hairme.ru/assets/uploads/ids/42/DM_Scan0241[1].jpg"
+    },
+    {
+        "name": "Панк",
+        "price": 1000,
+        "gender": "Мужская",
+        "type": "Молодежные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://www.2hairstyle.com/wp-content/uploads/2020/07/punk2Bhairstyles2B1.jpg"
+    },
+    {
+        "name": "Дудь",
+        "price": 1800,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://detector.media/doc/images/news/archive/2016/133001/i75_ArticleImage_133001.jpg?t=1513796061"
+    },
+    {
+        "name": "Скриллекс",
+        "price": 2000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://weraveyou.com/wp-content/uploads/2018/06/Skrillex-Live.jpg"
+    },
+    {
+        "name": "Гоша Куценко",
+        "price": 1000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://bnmusic.ru/wp-content/uploads/2020/01/Gosha-Kutsenko.jpg"
+    },
+    {
+        "name": "Трамп",
+        "price": 3000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm42pQjQJW4fRcednb1m7pinFrMuygwAySDk1VRn81iPAih19_rONTc8iFCDnCi6Fc7Yw&usqp=CAU"
+    },
+    {
+        "name": "Роналдо",
+        "price": 4000,
+        "gender": "Мужская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg):focal(1054x735:1056x733)/origin-imgresizer.eurosport.com/2021/03/30/3020400-61963728-2560-1440.jpg"
+    },
+    {
+        "name": "Мэрлин Монро",
+        "price": 2000,
+        "gender": "Женская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://sites.google.com/site/saingabouteverything/_/rsrc/1325238850830/stil-merlin-monro/monroe-02.jpg"
+    },
+    {
+        "name": "Марч Симпсон",
+        "price": 2000,
+        "gender": "Женская",
+        "type": "Звездные",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://ic.pics.livejournal.com/fastcult/50338851/1433623/1433623_original.jpg"
+    },
+    {
+        "name": "Косички",
+        "price": 500,
+        "gender": "Женская",
+        "type": "Детские",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "http://womenshealth.su/wp-content/uploads/2018/08/pricheski-v-detskij-sad-1.jpg"
+    },
+    {
+        "name": "Коса",
+        "price": 600,
+        "gender": "Женская",
+        "type": "Детские",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm34pNYy916TYrPc7YUkwHh3gJ7azo1_dx0Q&usqp=CAU"
+    },
+    {
+        "name": "Горшок",
+        "price": 400,
+        "gender": "Мужская",
+        "type": "Детские",
+        "description": "El Lorem Ipsum fue concebido como un texto de relleno, formateado",
+        "img": "https://letidor.ru/imgs/2018/04/24/07/2149458/44447185bbcf4632d7001fcbd3c84b7c83aac6b8.jpg"
+    },
+    {
+        "name": "Стрижка вспышка",
+        "price": 10,
+        "gender": "Мужская",
+        "type": "Прикольные",
+        "description": "Быстро и просто! Стрижка с огоньком",
+        "img": "http://sun9-47.userapi.com/s/v1/if1/2jOXmH22OLpSEWyZBy6V3QlDf5NoDIBjHpygfSghCRaGWukMq9hxE-y7bcJRDmDNQgPR3uDG.jpg?size=200x0&quality=96&crop=100,21,438,438&ava=1"
+    },
+    {
+        "name": "Чёткая",
+        "price": 350,
+        "gender": "Мужская",
+        "type": "Прикольные",
+        "description": "Ничего лишнего, только ты и твоя крутость",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBoEmWFNo1Yw0xubojTp9QMvnP70d6v8RBg7CynSLOznp-r7r3uAC0U13PAat5BfbkZ6E&usqp=CAU"
+    }
+    
+]
+
+}
